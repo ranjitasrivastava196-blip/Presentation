@@ -1,0 +1,6 @@
+{
+  "name": "BEE Series R-L-C Circuit Presentation & Simulator",
+  "description": "Complete professional presentation and interactive phasor simulator for Basic Electrical Engineering (BEE Unit 2) on Series R-L-C Circuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
